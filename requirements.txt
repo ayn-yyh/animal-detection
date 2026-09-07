@@ -1,0 +1,8 @@
+flask==2.3.3
+ultralytics==8.0.227
+opencv-python==4.8.1.78
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.24.3
+pillow==10.0.0
+gunicorn==21.2.0
