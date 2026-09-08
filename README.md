@@ -77,5 +77,3 @@
 *   `model_tuning_analysis.ipynb`：模型验证结果分析、置信度分布可视化和阈值调优过程。
 *   `model_weights/`：最终训练好的模型权重文件。
 *   `app.py` & `system.html`：系统后端与前端界面（由同伴主导开发）。
-
-*   **静态网页展示**：[https://resulting-apricot-jyhu3wul.pages.edgeone.ai](https://resulting-apricot-jyhu3wul.pages.edgeone.ai)
