@@ -78,7 +78,4 @@
 *   `model_weights/`：最终训练好的模型权重文件。
 *   `app.py` & `system.html`：系统后端与前端界面（由同伴主导开发）。
 
-## 🔗 项目链接
-
-*   **GitHub仓库**：[https://github.com/ayn-yyh/animal-detection](https://github.com/ayn-yyh/animal-detection)
 *   **静态网页展示**：[https://resulting-apricot-jyhu3wul.pages.edgeone.ai](https://resulting-apricot-jyhu3wul.pages.edgeone.ai)
