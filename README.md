@@ -81,4 +81,4 @@
 ## 🔗 项目链接
 
 *   **GitHub仓库**：[https://github.com/ayn-yyh/animal-detection](https://github.com/ayn-yyh/animal-detection)
-*   **在线演示**：[https://resulting-apricot-jyhu3wul.pages.edgeone.ai](https://resulting-apricot-jyhu3wul.pages.edgeone.ai)
+*   **静态网页展示**：[https://resulting-apricot-jyhu3wul.pages.edgeone.ai](https://resulting-apricot-jyhu3wul.pages.edgeone.ai)
